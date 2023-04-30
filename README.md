@@ -1,2 +1,1 @@
-# Woodcutter-Extension-sticks_and_stones
- 
+# Woodcutter-Extension: Sticks n' stones
